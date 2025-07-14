@@ -1,0 +1,13 @@
+#myTable{
+    background-color: grey;
+}
+
+#myTable tr td{
+    border: 1px solid black;
+    background-color: yellow;
+    padding: 10px;
+}
+
+/* #myTable tr td:nth-child(odd){
+    background-color: red;
+} */
