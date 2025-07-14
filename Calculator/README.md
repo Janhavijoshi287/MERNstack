@@ -1,0 +1,1 @@
+This code is for demonstrating calculator using javascript

@@ -1,0 +1,1 @@
+Build a 5x5 grid and highlight the background of every odd column as red using the document object once the HTML is loaded in the browser. If user clicks on any box then change the background to blue.
