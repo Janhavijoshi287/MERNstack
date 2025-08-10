@@ -1,0 +1,15 @@
+/* 3x view */
+body {
+  height: 300vh;
+  margin: 0;
+  padding: 0;
+  position: static;
+}
+
+/* Square */
+.square {
+  width: 10px;
+  height: 10px;
+  background-color: red;
+  position: absolute;
+}

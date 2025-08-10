@@ -1,0 +1,1 @@
+Create an HTML page which should have height thrice the size of the page which is visible. Create a feature which will enable the user to plot squares of 10X10px wherever he clicks.
